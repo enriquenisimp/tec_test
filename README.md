@@ -1,16 +1,12 @@
 # tec_test
 
-Test application 
+Test application with the list of the next URL: https://haven-tech-test.s3-eu-west-1.amazonaws.com/tech+test+json.json
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project have the purpose to the create a list with the url :https://haven-tech-test.s3-eu-west-1.amazonaws.com/tech+test+json.json .
+I use the HTTP library for do that. 
+IDE: Android Studio
+Language: Dart
+Framework: Flutter
+If you can execute this project only need have Android studio and Flutter framework.
